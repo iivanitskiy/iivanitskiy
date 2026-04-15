@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="" width="100%"/>
+  <img src="https://github.com/iivanitskiy/Ivan-Ivanitskiy/blob/main/img.webp" width="100%"/>
 </div>
 &nbsp;
 <div id="badges" align="center">
@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-&nbsp;
 
 <h1 align="center">
   🛠️ Стэк
