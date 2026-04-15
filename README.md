@@ -104,5 +104,6 @@
 > 
 **[Трещотка](https://github.com/iivanitskiy/treshotka)** -
 компактное приложение видеочата на Next.js 16, TypeScript, Redux Toolkit, Firebase, Agora, Ant Design и RecordRTC.
+<br>
 **[Тестирование](https://github.com/iivanitskiy/treshotka-tests)** - приложения Treshotka
 (TypeScript + Playwright)
