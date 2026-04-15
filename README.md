@@ -93,17 +93,13 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>Github</br>
     </td>
-
-
   </tr>
 </table>
 
 &nbsp;
 
 > ⚙️ Проекты:
-> 
-**[Трещотка](https://github.com/iivanitskiy/treshotka)** -
-компактное приложение видеочата на Next.js 16, TypeScript, Redux Toolkit, Firebase, Agora, Ant Design и RecordRTC.
-<br>
-**[Тестирование](https://github.com/iivanitskiy/treshotka-tests)** - приложения Treshotka
-(TypeScript + Playwright)
+
+- **[Трещотка](https://github.com/iivanitskiy/treshotka)** - компактное приложение видеочата на Next.js 16, TypeScript, Redux Toolkit, Firebase, Agora, Ant Design и RecordRTC.
+<br></br>
+- **[Тестирование](https://github.com/iivanitskiy/treshotka-tests)** приложения Treshotka (TypeScript + Playwright)
